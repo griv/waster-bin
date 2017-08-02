@@ -3,7 +3,7 @@
    pvi waster bin
    v1.0
    Steve Berrick
-   2016
+   2017
 
    - triggers crisis audio file to play when a bin is opened - proximity sensor
    - pwms out to led strip
@@ -14,7 +14,6 @@
 
 // REMEMBER TO SET THIS FOR EACH BIN!!!!!!!!!
 #define CRISIS   "IDENTITY"
-
 
 #include <Audio.h>
 #include <Wire.h>
